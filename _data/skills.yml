@@ -2,7 +2,7 @@
 
 # GitHub
 - skill: GitHub
-  description: Courses completed include:
+  description: Courses completed include
   - Communicating using Markdown
   - Uploading your project to GitHub
   - GitHub Pages
@@ -34,12 +34,32 @@
   
 # PowerShell
 - skill: PowerShell
-  description: Developed and maintained various conference talks, online training, and in-person trainings covering various topics including Git, GitHub, and Open Source.
+  description:
+  - PowerShell purpose, launching and commmandlets
+  - Effective use of the help system
+  - Using the pipeline, object and remote
+  - Automation
+  - Basic scripting
+  - DSC architecture (push/pull)
+  - Configuring servers for deployment 
+  - Common code practices
+  - DSC and Linux
   
 # AWS
 - skill: AWS
-  description: Developed and maintained various conference talks, online training, and in-person trainings covering various topics including Git, GitHub, and Open Source.
-
-# SalesForce
-- skill: SalesForce
-  description: Developed and maintained various conference talks, online training, and in-person trainings covering various topics including Git, GitHub, and Open Source.
+  description: Courses completed include
+  - Definition and benefits of cloud computing
+  - AWS Core Services
+  - AWS Security
+  - AWS Architecting
+  - AWS Pricing and Support
+  - AWS Product Demonstrations
+  
+# Salesforce
+- skill: Salesforce
+  description: Courses completed include
+  - Salesforce Platform Basics
+  - Data Modeling and Management
+  - Lightning Experience Customization
+  - Salesforce Mobile App Customization
+  - Reports & Dashboards for Lightning Experience
