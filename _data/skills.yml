@@ -1,4 +1,4 @@
-# Skills
+# Tech Skills
 
 # GitHub
 - skill: GitHub
@@ -12,11 +12,25 @@
 
 # Linux
 - skill: Linux
-  description: Managed multiple asynchronous teams in the development, maintenance, and release of various web applications and websites.
+  description: Skills include
+  - Kernel definition and naming conventions
+  - Basic commands (pwd, cd, ls, cat, history, etc.)
+  - User permissions (read, write, execute, etc.)
+  - Input and Output redirection and Piping
+  - Linux environment variables (PATH, $LANG, etc.)
+  - Communicating within networks (Ping, FTP, SSH)
+  - Shell scripting and virtual terminals
   
 # PowerBI
 - skill: PowerBI
-  description: Developed and maintained various conference talks, online training, and in-person trainings covering various topics including Git, GitHub, and Open Source.
+  description: Data analysis and visualization skills include
+  - Manipulating and modeling data
+  - Graphs, slicers, and conditional formatting
+  - Dashboards in Power BI Service
+  - Excel with Power BI
+  - Managing data content and security
+  - Creating live connections to servers (through SQL Azure, SQL Database, etc.)
+  - Power BI mobile phone/tablet compatibility
   
 # PowerShell
 - skill: PowerShell
