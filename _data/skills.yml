@@ -34,16 +34,16 @@
   
 # PowerShell
   - skill: PowerShell
-  - description:
-  - PowerShell purpose, launching and commmandlets
-  - Effective use of the help system
-  - Using the pipeline, object and remote
-  - Automation
-  - Basic scripting
-  - DSC architecture (push/pull)
-  - Configuring servers for deployment 
-  - Common code practices
-  - DSC and Linux
+    description:
+    - PowerShell purpose, launching and commmandlets
+    - Effective use of the help system
+    - Using the pipeline, object and remote
+    - Automation
+    - Basic scripting
+    - DSC architecture (push/pull)
+    - Configuring servers for deployment 
+    - Common code practices
+    - DSC and Linux
   
 # AWS
   - skill: AWS
