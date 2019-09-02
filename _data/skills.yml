@@ -2,14 +2,13 @@
 
 # GitHub
 - skill: GitHub
-  description: "Courses completed include<ul>
-  <li>Communicating using Markdown</li>
-  <li>Uploading your project to GitHub</li>
-  <li>GitHub Pages</li>
-  <li>Reviewing pull requests</li>
-  <li>Managing merge conflicts</li>
-  <li>Securing your workflows</li>
-  </ul>"
+  description: Courses completed include:
+  - Communicating using Markdown
+  - Uploading your project to GitHub
+  - GitHub Pages
+  - Reviewing pull requests
+  - Managing merge conflicts
+  - Securing your workflows
 
 # Linux
 - skill: Linux
