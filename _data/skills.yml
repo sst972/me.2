@@ -1,8 +1,8 @@
 # Skills
 
 # GitHub
-  skill: GitHub
-  description: Courses completed include
+  - skill: GitHub
+  - description: Courses completed include
   - Communicating using Markdown
   - Uploading your project to GitHub
   - GitHub Pages
@@ -11,8 +11,8 @@
   - Securing your workflows
 
 # Linux
-  skill: Linux
-  description: Skills include
+  - skill: Linux
+  - description: Skills include
   - Kernel definition and naming conventions
   - Basic commands (pwd, cd, ls, cat, history, etc.)
   - User permissions (read, write, execute, etc.)
@@ -22,8 +22,8 @@
   - Shell scripting and virtual terminals
   
 # PowerBI
-  skill: PowerBI
-  description: Data analysis and visualization skills include
+  - skill: PowerBI
+  - description: Data analysis and visualization skills include
   - Manipulating and modeling data
   - Graphs, slicers, and conditional formatting
   - Dashboards in Power BI Service
@@ -33,8 +33,8 @@
   - Power BI mobile phone/tablet compatibility
   
 # PowerShell
-  skill: PowerShell
-  description:
+  - skill: PowerShell
+  - description:
   - PowerShell purpose, launching and commmandlets
   - Effective use of the help system
   - Using the pipeline, object and remote
@@ -46,8 +46,8 @@
   - DSC and Linux
   
 # AWS
-  skill: AWS
-  description: Courses completed include
+  - skill: AWS
+  - description: Courses completed include
   - Definition and benefits of cloud computing
   - AWS Core Services
   - AWS Security
@@ -56,8 +56,8 @@
   - AWS Product Demonstrations
   
 # Salesforce
-  skill: Salesforce
-  description: Courses completed include
+  - skill: Salesforce
+  - description: Courses completed include
   - Salesforce Platform Basics
   - Data Modeling and Management
   - Lightning Experience Customization
