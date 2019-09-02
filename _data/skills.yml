@@ -34,7 +34,7 @@
   
 # PowerShell
   - skill: PowerShell
-    description:
+    description: Skills include
     - PowerShell purpose, launching and commmandlets
     - Effective use of the help system
     - Using the pipeline, object and remote
@@ -46,8 +46,8 @@
     - DSC and Linux
   
 # AWS
-  - skill: AWS
-  - description: Courses completed include
+  skill: AWS
+  description: Courses completed include
   - Definition and benefits of cloud computing
   - AWS Core Services
   - AWS Security
