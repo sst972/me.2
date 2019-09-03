@@ -33,21 +33,21 @@
   - Power BI mobile phone/tablet compatibility
   
 # PowerShell
-  skill: PowerShell
-  description: Skills include
-    - PowerShell purpose, launching and commmandlets
-    - Effective use of the help system
-    - Using the pipeline, object and remote
-    - Automation
-    - Basic scripting
-    - DSC architecture (push/pull)
-    - Configuring servers for deployment 
-    - Common code practices
-    - DSC and Linux
+  - skill: PowerShell
+  - description: Skills include
+  - PowerShell purpose, launching and commmandlets
+  - Effective use of the help system
+  - Using the pipeline, object and remote
+  - Automation
+  - Basic scripting
+  - DSC architecture (push/pull)
+  - Configuring servers for deployment 
+  - Common code practices
+  - DSC and Linux
   
 # AWS
-  skill: AWS
-  description: Courses completed include
+  - skill: AWS
+  - description: Courses completed include
   - Definition and benefits of cloud computing
   - AWS Core Services
   - AWS Security
