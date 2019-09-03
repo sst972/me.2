@@ -3,7 +3,11 @@
 # GitHub
   - skill: GitHub
   - description: Courses completed include
-  - Communicating using Markdown
+  <ul>
+  <li>Uploading your project to GitHub</li>
+  <li>Communicating using Markdown</li>
+  <li>Milk</li>
+  </ul>
   - Uploading your project to GitHub
   - GitHub Pages
   - Reviewing pull requests
